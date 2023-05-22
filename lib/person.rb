@@ -5,4 +5,5 @@ class Person
     # setter
     def initialize(name)
         @name = name
+    end
 end
